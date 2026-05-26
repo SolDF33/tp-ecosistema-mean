@@ -8,7 +8,7 @@
 
 Este proyecto consiste en una aplicación web Full Stack que integra el ecosistema **MEAN** (MongoDB, Express, Angular y Node.js) para procesar, filtrar y visualizar datos de ventas de hardware en tiempo real.
 
-> 📝 **Nota para la cátedra:** Adjunto en la entrega de la plataforma el documento de Word con las capturas de pantalla del paso a paso y el detalle visual de cada uno de los *Stages* realizados en MongoDB Compass.
+> 📝 **Nota:** Adjunto en la entrega de la plataforma el documento de Word con las capturas de pantalla del paso a paso y el detalle visual de cada uno de los *Stages* realizados en MongoDB Compass.
 
 ---
 
